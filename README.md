@@ -71,7 +71,7 @@ National Overview & Metric	Value
 
 Switzerland imported significantly more electricity than it exported during the measured period, resulting in a net import balance of about 437.65 GWh.
 
-**🧠 Key Insights**
+**Key Insights**
 Switzerland is energy-exporting in summer (hydropower surplus).
 ❄️ Switzerland becomes energy-importing in winter due to heating demand and lower renewable output.
 📊 The country is not fully energy-autonomous year-round, despite strong seasonal performance.
