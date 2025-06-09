@@ -57,7 +57,7 @@ National Overview & Metric	Value
 ⚠️ Although annual production exceeds consumption, seasonal variations cause import dependence in winter.
 
 
-![image alt](https://github.com/soubhisaad/Swiss-Energy-Analytics-Project-Soubhi-Saad/blob/9f911ea48a8c31957f02e7a4193f70c24b7ac9bb/Power%20BI%20Dashboard%201.png)
+![image alt](https://github.com/soubhisaad/Swiss-Energy-Analytics-Project-Soubhi-Saad/blob/24a5466d12b0809f04eb2fb3e94a345ac2df36f8/Power%20BI%20Dashboard.png)
 
 
 **Canton-Level Production vs. Consumption**
