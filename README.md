@@ -65,11 +65,11 @@ National Overview & Metric	Value
  - Others like Zurich (ZH) and Geneva (GE) consume far more than they produce.
 
 **🌍 Foreign Trade Overview**
-- Imported energy: 636.43 GWh
-- Exported energy: 198.77 GWh
-- Net foreign balance: –437.65 GWh
+- Imported energy: 25.26 TWh
+- Exported energy: 39.18 TWh
+- Net foreign balance: –13.92 GWh
 
-Switzerland imported significantly more electricity than it exported during the measured period, resulting in a net import balance of about 437.65 GWh.
+Switzerland was a net exporter of electricity, exporting 13.92 TWh more than it imported.
 
 **Key Insights**
 Switzerland is energy-exporting in summer (hydropower surplus).
