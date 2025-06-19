@@ -33,7 +33,7 @@ To simplify modeling and visualization, some analyses aggregate the data to hour
 **📈 Python Analysis Highlights**
 
 Monthly Energy Trends
-- Total annual consumption: 61,626.68 GWh
+- Total annual consumption: 61,63 TWh
 - Daily average: 167.92 GWh
 - Consumption peaks in winter (Jan, Dec) and dips in summer (Jun–Aug)
 
